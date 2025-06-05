@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Quantum-Computing-Journey
+My 3 month journey to step into Quantnum Computing using Qiskit,Python,Math and Projects
+=======
+>>>>>>> af0917c (Initial setup with Week 1 summary)
 # Quantum Computing Journey 🚀
 
 This repository tracks my 3-month study plan to learn Python, Linear Algebra, and Quantum Computing.
@@ -7,3 +12,4 @@ This repository tracks my 3-month study plan to learn Python, Linear Algebra, an
 - Linear Algebra: Vectors (Khan Academy)
 - Installed Qiskit, ran 101 tutorial
 - Basics of Quantum Info: Single Systems
+
