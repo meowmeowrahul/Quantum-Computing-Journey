@@ -1,0 +1,20 @@
+Python:
+->Completed Python For Everybody(Chapter 8:Lists)
+Linear Algebra(Khan Academy):
+->Completed Vectors(Linear Dependence)
+Qiskit:
+->Started Course "Getting Started with Qiskit" by IBM
+->Installed Qiskit and its dependancies(Chapter zero)
+->Qiskit 101 Tutorial (Chapter one)
+->Wrote a Jupyter Notebook that implements and Displays basic quantum states/vectors
+Quantum Thoery related:
+->Stared Course "Basics of Quantum Information"
+->Completed Chapter 1 Single Systems 
+->Applied concepts from chapter 1 in Qiskit
+Extra:
+->Configured New Pc with Linux Mint Cinnamon
+->Installed VS Code
+->Github account created
+
+
+
