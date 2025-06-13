@@ -1,0 +1,6 @@
+Python For Everybody:
+->Completed Chapter 9 Dictionaries
+->Completed Chapter 10 Tuples
+Github:
+->Learned to push folders
+

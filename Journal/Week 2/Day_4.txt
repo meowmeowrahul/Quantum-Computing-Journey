@@ -1,0 +1,4 @@
+Python:
+->Solved medium level problems on Hackerank
+Basic of Quantum Information:
+->Completed Theory Chapter Quantum Circuits
