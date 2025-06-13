@@ -12,4 +12,9 @@ This repository tracks my 3-month study plan to learn Python, Linear Algebra, an
 - Linear Algebra: Vectors (Khan Academy)
 - Installed Qiskit, ran 101 tutorial
 - Basics of Quantum Info: Single Systems
+## Week 2 Highlights
+- Completed Python For Everybody 
+- Completed Basics of Quantum Info(Badge Earned)
+- Ran various Implentation of above course on Qiskit
+ 
 
