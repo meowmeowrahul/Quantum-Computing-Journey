@@ -16,5 +16,4 @@ This repository tracks my 3-month study plan to learn Python, Linear Algebra, an
 - Completed Python For Everybody 
 - Completed Basics of Quantum Info(Badge Earned)
 - Ran various Implentation of above course on Qiskit
- 
-
+- Built Circuit On Quantum Teleportation,Superdense Coding and CHSH game
