@@ -1,4 +1,4 @@
-# 🌀 Classical Gates to Quantum Gates
+# 🌀 BB84 Protocol
 
 This project demonstrates **BB84 Protocol**, a quantum circuit that demonstrates quantum encryption of data.
 
