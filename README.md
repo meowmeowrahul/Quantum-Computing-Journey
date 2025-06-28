@@ -1,11 +1,26 @@
 <<<<<<< HEAD
 # Quantum-Computing-Journey
-My 3 month journey to step into Quantnum Computing using Qiskit,Python,Math and Projects
+My 1 month self exploration journey to step into Quantnum Computing using Qiskit,Python,Math and Projects
 =======
+- ✅ Completed Phase 1 of my Quantum Journey (4 Weeks)
+- ⏸️ Paused temporarily for academic priorities – will resume someday
+
+## What I accomplished/Learned
+- Learned about Quantum computing and Qiskit
+- Improved Python
+- Deeper level of maths and physics understanding
+- Made projects like BB84,Grover's Algortihm,Quantum Teleportation etc
+
+## Notes For Future self
+- Advanced level of Qiskit
+- Exploring concepts like Shor's Algorithm
+- Build further real life applications based projects like cryptograhpy 
+- Deeper understanding of maths and physics
+
 >>>>>>> af0917c (Initial setup with Week 1 summary)
 # Quantum Computing Journey 🚀
 
-This repository tracks my 3-month study plan to learn Python, Linear Algebra, and Quantum Computing.
+This repository tracks my one-month study plan to learn Python, Linear Algebra, and Quantum Computing.
 
 ## Week 1 Highlights
 - Python For Everybody – up to Lists
@@ -21,3 +36,9 @@ This repository tracks my 3-month study plan to learn Python, Linear Algebra, an
 - Sick, Not much progress:(
 - Completed "Quantum Computing For The Very Curious"
 - Made Mini project Quantum Teleportation,Superdense Coding
+## Week 4 Highlights
+- Revised vectors and matrices
+- Built BB84 protocol
+- Cleaned my "Projects" folder for better clarity
+
+- Decided to pause it here to focus academics and job prep 
